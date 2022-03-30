@@ -1,0 +1,2 @@
+# Ucgen-Alani
+Üç kenar uzunluğunu kullanıcıdan aldığınız üçgenin alanını hesaplayan program
